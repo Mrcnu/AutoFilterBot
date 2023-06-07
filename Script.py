@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """👋 Hello {},
 
-I can give any Movie and TV Series to auto filter method. 🥳
+I can give any Movie and TV Series to You Finger tip. 🥳
 
 All you have to do is add me to a group and give me admin. 😌
 
@@ -12,10 +12,10 @@ I will take care of the rest. 😎"""
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: mrcrazy
-★ Username: @mrcrazy66
-★ ID: <code>6088575087</code>
-★ Country: India """
+  
+
+
+
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
